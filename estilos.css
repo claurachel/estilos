@@ -1,11 +1,9 @@
-/*La propiedad CSS padding establece el espacio de relleno 
-requerido por todos los lados de un elemento. */
 *{
     margin: 0px;
     padding: 0px;
 } 
 body{
-background:#ccbb99;
+background:#444;
 color: #fff;
 } 
 #contenedor {
